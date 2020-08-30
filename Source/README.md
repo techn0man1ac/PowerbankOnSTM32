@@ -18,6 +18,11 @@ https://mysku.ru/blog/taobao/48290.html
 
 http://images.100y.com.tw/pdf_file/38-GMT-G5177Cx.pdf
 
+
+MT5033:
+
+https://mysku.ru/blog/china-stores/64575.html
+
 ## Зарядник TP4056:
 
 Мощная зарядка для LI-ION аккумуляторов или TP4056 параллельно
