@@ -21,7 +21,7 @@ http://images.100y.com.tw/pdf_file/38-GMT-G5177Cx.pdf
 https://youtu.be/Pq20A9LM4yw
 
 ![Schematic](Imgs/TP4056_parallel.jpg)
-![Schematic_TP4056_parallel](https://github.com/techn0man1ac/PowerbankOnSTM32/blob/master/TP4056_parallel.jpg?raw=true)
+![Schematic_TP4056_parallel](https://github.com/techn0man1ac/PowerbankOnSTM32/master/Imgs/TP4056_parallel.jpg?raw=true)
 
 Реинкарнация «народной» платы TP4056 или самодельная зарядка для лития на 3А
 
