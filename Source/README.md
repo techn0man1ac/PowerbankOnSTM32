@@ -20,6 +20,8 @@ http://images.100y.com.tw/pdf_file/38-GMT-G5177Cx.pdf
 
 https://youtu.be/Pq20A9LM4yw
 
+![Schematic](Imgs/TP4056_parallel.jpg)
+
 Реинкарнация «народной» платы TP4056 или самодельная зарядка для лития на 3А
 
 https://habr.com/ru/company/dronk/blog/392825/
