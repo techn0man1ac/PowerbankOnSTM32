@@ -6,7 +6,11 @@
 
 https://youtu.be/zHf4VvSGxe4
 
-Выбор автора - G5177C, обзор:
+Выбор автора - G5177C: 
+
+![G5177C](https://raw.githubusercontent.com/techn0man1ac/PowerbankOnSTM32/master/Imgs/GMT%20G5177C.PNG)
+
+Обзор G5177C:
 
 https://mysku.ru/blog/taobao/48290.html
 
