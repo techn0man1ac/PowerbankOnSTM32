@@ -28,6 +28,8 @@ https://youtu.be/Pq20A9LM4yw
 
 Реинкарнация «народной» платы TP4056 или самодельная зарядка для лития на 3А
 
+![TP4056_3A](https://raw.githubusercontent.com/techn0man1ac/PowerbankOnSTM32/master/Imgs/0dbd52a1162f48ab86dddadf94f17ead.png)
+
 https://habr.com/ru/company/dronk/blog/392825/
 
 Даташит:
