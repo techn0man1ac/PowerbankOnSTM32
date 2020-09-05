@@ -40,3 +40,11 @@ https://habr.com/ru/company/dronk/blog/392825/
 Даташит:
 
 https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf
+
+## Альтернатива с использованием Power Delivery:
+
+Беглый взгляд на ассортимент PD тригеров
+
+https://mysku.ru/blog/aliexpress/77573.html
+
+![Schematic_TP4056_parallel](https://raw.githubusercontent.com/techn0man1ac/PowerbankOnSTM32/master/Imgs/be28a9.jpg)
