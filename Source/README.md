@@ -47,4 +47,10 @@ https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf
 
 https://mysku.ru/blog/aliexpress/77573.html
 
-![Schematic_TP4056_parallel](https://raw.githubusercontent.com/techn0man1ac/PowerbankOnSTM32/master/Imgs/be28a9.jpg)
+![PD triggers](https://raw.githubusercontent.com/techn0man1ac/PowerbankOnSTM32/master/Imgs/be28a9.jpg)
+
+MP2307 USB-C Buck Converter:
+
+![MP2307 USB-C Buck Converter](https://raw.githubusercontent.com/techn0man1ac/PowerbankOnSTM32/master/Imgs/EQfjEryWefvVntioPtvdtKiLcoezcSjCVIvwx2Gj.jpeg)
+
+https://easyeda.com/wagiminator/mp2307-usb-c-buck-converter
