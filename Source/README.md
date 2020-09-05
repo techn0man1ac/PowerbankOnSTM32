@@ -51,6 +51,8 @@ https://mysku.ru/blog/aliexpress/77573.html
 
 MP2307 USB-C Buck Converter:
 
+https://easyeda.com/wagiminator/mp2307-usb-c-buck-converter
+
 ![MP2307 USB-C Buck Converter](https://raw.githubusercontent.com/techn0man1ac/PowerbankOnSTM32/master/Imgs/EQfjEryWefvVntioPtvdtKiLcoezcSjCVIvwx2Gj.jpeg)
 
-https://easyeda.com/wagiminator/mp2307-usb-c-buck-converter
+
