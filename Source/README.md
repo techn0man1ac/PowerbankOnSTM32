@@ -55,4 +55,6 @@ https://easyeda.com/wagiminator/mp2307-usb-c-buck-converter
 
 ![MP2307 USB-C Buck Converter](https://raw.githubusercontent.com/techn0man1ac/PowerbankOnSTM32/master/Imgs/EQfjEryWefvVntioPtvdtKiLcoezcSjCVIvwx2Gj.jpeg)
 
+PD триггер IP2721
 
+https://github.com/techn0man1ac/PowerbankOnSTM32/blob/master/Source/2006111335_INJOINIC-IP2721_C603176.pdf
