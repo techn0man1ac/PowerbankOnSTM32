@@ -43,12 +43,6 @@ https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf
 
 ## Альтернатива с использованием Power Delivery:
 
-Беглый взгляд на ассортимент PD тригеров
-
-https://mysku.ru/blog/aliexpress/77573.html
-
-![PD triggers](https://raw.githubusercontent.com/techn0man1ac/PowerbankOnSTM32/master/Imgs/be28a9.jpg)
-
 MP2307 USB-C Buck Converter(PD + DC-DC ионижайка):
 
 https://easyeda.com/wagiminator/mp2307-usb-c-buck-converter
@@ -58,3 +52,9 @@ https://easyeda.com/wagiminator/mp2307-usb-c-buck-converter
 PD триггер IP2721 pdf
 
 https://github.com/techn0man1ac/PowerbankOnSTM32/blob/master/Source/2006111335_INJOINIC-IP2721_C603176.pdf
+
+Беглый взгляд на ассортимент PD тригеров
+
+https://mysku.ru/blog/aliexpress/77573.html
+
+![PD triggers](https://raw.githubusercontent.com/techn0man1ac/PowerbankOnSTM32/master/Imgs/be28a9.jpg)
